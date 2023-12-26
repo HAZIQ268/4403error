@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization xmlns:m="http//www.gengo.com/employees" xmlns:w="http//www.daraz.com/workers">
+    <m:records>
+        <m:record>
+            <m:name>Hamza</m:name>
+            <m:age>18</m:age>
+        </m:record>
+
+        <m:record>
+            <m:name>Imran</m:name>
+            <m:age>15</m:age>
+        </m:record>
+    </m:records>
+
+    <w:records>
+        <w:record>
+            <w:name>Hamza</w:name>
+            <w:age>18</w:age>
+</w:record>
+        
+        <w:record>
+            <w:name>Imran</w:name>
+            <w:age>15</w:age>
+</w:record>
+    </w:records>
+</organization>

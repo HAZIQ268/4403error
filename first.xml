@@ -3,28 +3,28 @@
 <foodlist>
 
 
-    <fooditems>
+    <fooditems type="italian">
 
         <name>pizza</name>
 
         <cost>1199</cost>
 
     </fooditems>
-    <fooditems>
+    <fooditems type="italian">
 
         <name>pizza</name>
 
         <cost>1199</cost>
 
     </fooditems>
-    <fooditems>
+    <fooditems type="italian">
 
         <name>pizza</name>
 
         <cost>1199</cost>
 
     </fooditems>
-    <fooditems>
+    <fooditems type="italian">
 
         <name>pizza</name>
 

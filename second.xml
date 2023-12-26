@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <namelist>
+    <e:names xmlns:e="http//www.gengo.com/employees">haziq</e:names>
+    <e:names>habib</e:names>
+    <e:names>hadi</e:ames>
+    <e:names>imran</e:names>
+    <e:names>hamza</e:names>
+ </namelist>
+ 
+ <namelist>
+    <s:names xmlns:e="http//www.gengo.com/employees">haziq</s:names>
+    <s:names>habib</s:names>
+    <s:names>hadi</s:ames>
+    <s:names>imran</s:names>
+    <s:names>hamza</s:names>
+ </namelist>
