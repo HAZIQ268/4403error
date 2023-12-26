@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+
+
+    <fooditems>
+
+        <name>pizza</name>
+
+        <cost>1199</cost>
+
+    </fooditems>
+    <fooditems>
+
+        <name>pizza</name>
+
+        <cost>1199</cost>
+
+    </fooditems>
+    <fooditems>
+
+        <name>pizza</name>
+
+        <cost>1199</cost>
+
+    </fooditems>
+    <fooditems>
+
+        <name>pizza</name>
+
+        <cost>1199</cost>
+
+    </fooditems>
+
+</foodlist>
