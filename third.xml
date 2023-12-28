@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<organization xmlns:m="http//www.gengo.com/employees" xmlns:w="http//www.daraz.com/workers">
+<organization xmlns:m="http//www.gengo.com/employees" xmlns:w="http//www.daraz.pk/managment">
     <m:records>
         <m:record>
             <m:name>Hamza</m:name>
@@ -17,11 +17,11 @@
         <w:record>
             <w:name>Hamza</w:name>
             <w:age>18</w:age>
-</w:record>
-        
+        </w:record>
+
         <w:record>
             <w:name>Imran</w:name>
             <w:age>15</w:age>
-</w:record>
+        </w:record>
     </w:records>
 </organization>
