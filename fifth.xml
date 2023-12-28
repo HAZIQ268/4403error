@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>Hamza</name>
+        <age>15</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+    <student>
+        <name>Amir</name>
+        <age>19</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+    <student>
+        <name>Huzaifa</name>
+        <age>18</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+    <student>
+        <name>Habib</name>
+        <age>20</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+    <student>
+        <name>Haider</name>
+        <age>22</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+    <student>
+        <name>Abdullah</name>
+        <age>23</age>
+        <course>xml</course>
+        <city>karachi</city>
+        <country>Pakistan</country>
+    </student>
+</class>
