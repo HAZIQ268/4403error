@@ -16,8 +16,8 @@
                     <th>City</th>
                     <th>Country</th>
                 </tr>
-    <xsl:for-each select="student">
-    <tr>
+                <tr>
+        <xsl:for-each select="student">
     </tr>
     <td><xsl:value-of>name</xsl:value-of></td>
     <td><xsl:value-of>age</xsl:value-of></td>
