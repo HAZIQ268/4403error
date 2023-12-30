@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-stylesheet href="/seventh.xsl" type="text/xsl"?>
+<organisation>
+    <employees>
+        <id>10234</id>
+        <name>Haider</name>
+        <salary>500000</salary>
+        <join>12-5-2023</join>
+        <position>Manager</position>
+    </employees>
+    <employees>
+        <id>10255</id>
+        <name>Ibrahim</name>
+        <salary>600000</salary>
+        <join>12-8-2023</join>
+        <position>MANAGER</position>
+    </employees>
+    <employees>
+        <id>102455</id>
+        <name>Hunain</name>
+        <salary>700000</salary>
+        <join>12-9-2023</join>
+        <position>CEO</position>
+    </employees>
+    <employees>
+        <id>101511</id>
+        <name>habib</name>
+        <salary>800000</salary>
+        <join>12-10-2023</join>
+        <position>Manager</position>
+    </employees>
+    <employees>
+        <id>15234</id>
+        <name>Haris</name>
+        <salary>900000</salary>
+        <join>12-11-2023</join>
+        <position>Manager</position>
+    </employees>
+</organisation>
