@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="/nine.xsl" type="text/xsl"?>
+
+<organization>
+  <department>
+        <name>Empire Burlesque</name>
+       <artist>Bob Dylan</artist>
+    </department>
+    <department>
+        <name>Hide Your Heart</name>
+        <artist>Bonnie Tyler</artist>
+    </department>
+    <department>
+        <name>Greatest Hits</name>
+        <artist>Dolly Parton</artist>
+    </department>
+    <department>
+        <name>Still got the blues</name>
+        <artist>Gary Moore</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>One night only</name>
+        <artist>Bee Gees</artist>
+    </department>
+    <department>
+        <name>Marry</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+    <department>
+        <name>Eros</name>
+        <artist>Eros Rammazzotti</artist>
+    </department>
+</organization>
