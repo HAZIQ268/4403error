@@ -7,42 +7,46 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
+    <div class="container mt-4">
         <div class="row">
             <div class="col-lg-8">
-                <table class="table">
+                <table class="table" border="4">
                     <tr>
                         <th>Select Product</th>
-                        <th>
-                        <select class="form-control" name="" id="select1">
-                            <option value="0">---git --Select Anyone-----</option>
+                        <th class="col-lg-6">
+                        <select class="form-control" name="" id="select1" onchange="item1(this.value)">
+                            <option value="0">-----Select Anyone-----</option>
                         </select>
                     </th>
-                        <th>
-                        <select class="form-control" name="" id="select2">
+                        <th class="col-lg-6">
+                        <select class="form-control" name="" id="select2" onchange="item2(this.value)">
                             <option value="0">-----Select Anyone-----</option>
                         </select>
                     </th>
                     </tr>
                     <tr>
                         <th>Product Image</th>
-                        <td><img id="select1" src="images/HuaweiNova9-b.jpg" alt="" class="img-fluid"></td>
-                        <td><img id="select2" src="images/HuaweiNova9-b.jpg" alt="" class="img-fluid"></td>
+                        <td>
+                            <img id="img1" src="images/HuaweiNova9-b.jpg" alt="" class="img-fluid">
+                        </td>
+                        <td>
+                            <img id="img2" src="images/HuaweiNova9-b.jpg" alt="" class="img-fluid">
+                        </td>
                     </tr>
                     <tr>
                         <th>Product Price</th>
-                        <th><td>6000</td></th>
-                        <th><td>6000</td></th>
+                        <td id="price1"></td>
+                        <td id="price2"></td>
                     </tr>
                     <tr>
                         <th>Product Brand</th>
-                        <th><td>6000</td></th>
-                        <th><td>6000</td></th>
+                        <td id="brand1"></td>
+                        <td id="brand2"></td>
                     </tr>
                     <tr>
                         <th>Product Description</th>
-                        <th><td>6000</td></th>
-                        <th><td>6000</td></th>
+                        <td id="desc1"></td>
+                        <td id="desc2"></td>
                     </tr>
 
                 </table>
